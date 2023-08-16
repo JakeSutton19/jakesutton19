@@ -3,10 +3,11 @@
 Check out my projects below:
 
 1) MLB Prediction: https://github.com/JakeSutton19/MLB-Game-Prediction
-2) NCAA March Madness Prediction: https://github.com/JakeSutton19/NCAA
-3) Bovada Sports Betting Bot: https://github.com/JakeSutton19/AI-Gambler
-4) PhysOnline: https://github.com/JakeSutton19/PhysOnline
-5) Data Science Tutorials: https://github.com/JakeSutton19/Data-Science-Projects
+2) Weather Forcasting: https://github.com/JakeSutton19/Weather-Forecasting
+3) NCAA March Madness Prediction: https://github.com/JakeSutton19/NCAA
+4) Bovada Sports Betting Bot: https://github.com/JakeSutton19/AI-Gambler
+5) PhysOnline: https://github.com/JakeSutton19/PhysOnline
+6) Data Science Tutorials: https://github.com/JakeSutton19/Data-Science-Projects
 
 Additionally check out my personal site for my information: https://jakesutton19.github.io/
 
